@@ -1,0 +1,17 @@
+total 60
+drwxrwxr-x 2 adroit adroit 4096 Jun 28 16:39 .
+drwxrwxr-x 6 adroit adroit 4096 Jun 28 15:51 ..
+-rwxrwxr-x 1 adroit adroit   30 Jun 28 15:52 0-hello_world
+-rwxrwxr-x 1 adroit adroit   28 Jun 28 15:56 1-confused_smiley
+-rwxrwxr-x 1 adroit adroit   28 Jun 28 15:58 2-hellofile
+-rwxrwxr-x 1 adroit adroit   39 Jun 28 16:00 3-twofiles
+-rwxrwxr-x 1 adroit adroit   35 Jun 28 16:03 4-lastlines
+-rwxrwxr-x 1 adroit adroit   35 Jun 28 16:06 5-firstlines
+-rwxrwxr-x 1 adroit adroit   40 Jun 28 16:19 6-third_line
+-rwxrwxr-x 1 adroit adroit   89 Jun 28 16:34 7-file
+-rwxrwxr-x 1 adroit adroit   36 Jun 28 16:39 8-cwd_state
+-rw-rw-r-- 1 adroit adroit   12 Jun 28 16:36 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 adroit adroit  801 Jun 28 16:16 iacta
+-rw-rw-r-- 1 adroit adroit    0 Jun 28 16:39 ls_cwd_content
+-rw-rw-r-- 1 adroit adroit   54 Jun 28 15:48 README.md
+-rwxrwxr-x 1 adroit adroit   40 Jun 28 16:19 test-6
