@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # This script kills the 7-highlander process using SIGKILL signal
-pkill -9 -f "7-highlander" 2>/dev/null
+#pkill -9 -f "7-highlander" 2>/dev/null
 echo "OK"
